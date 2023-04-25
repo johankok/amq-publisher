@@ -132,7 +132,7 @@ GEM
       nio4r (~> 2.0)
     racc (1.6.2)
     rack (2.2.7)
-    rack-mini-profiler (3.0.0)
+    rack-mini-profiler (3.1.0)
       rack (>= 1.2.0)
     rack-proxy (0.7.6)
       rack
@@ -235,7 +235,7 @@ DEPENDENCIES
   jbuilder (~> 2.11)
   listen (~> 3.8)
   puma (~> 6.2)
-  rack-mini-profiler (~> 3.0)
+  rack-mini-profiler (~> 3.1)
   rails (~> 7.0.4)
   sass-rails (>= 6)
   selenium-webdriver (~> 4.9.0)
